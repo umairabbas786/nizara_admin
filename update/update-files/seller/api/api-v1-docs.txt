@@ -1,0 +1,300 @@
+API URL -->> 
+        https://ecartmultivendor.wrteam.in/seller/api/api-v1.php
+
+----------------------------------------------------------
+SELLER APIs list 
+----------------------------------------------------------
+1. login
+2. get_categories
+3. get_subcategories
+4. get_products
+5. get_financial_statistics
+6. update_seller_fcm_id
+7. get_seller_transactions
+8. get_orders
+9. update_order_status
+10.add_products
+11.update_products
+12.delete_products
+13. get_seller_by_id
+14. get_taxes
+15. get_units
+16. get_pincodes
+17. delete_other_images
+18. delete_variant
+19.get_customers
+20.send_request
+21.get_requests
+22.update_seller_profile
+23.get_delivery_boys
+
+------------------------------------------
+What parameters to be Passed?  See here >>
+------------------------------------------
+
+Use POST method to pass the parameters
+
+1.login
+    accesskey:90336
+    login:1
+    mobile:9876543210
+    password:12345678
+    fcm_id:YOUR_FCM_ID  // {optional}
+
+2.get_categories
+	accesskey:90336
+    seller_id:1
+    get_categories: 1
+    offset:0           // {optional}
+    limit:10           // {optional}
+    sort:id            // {optional}
+    order:asc/desc     // {optional}    
+    search:Beverages   // {optional} 
+
+3.get_subcategories
+    accesskey:90336
+    seller_id:1
+    get_subcategories:1
+    category_id:29      // {optional}
+    subcategory_id:114  // {optional}
+    offset:0            // {optional}
+    limit:10            // {optional}
+    sort:id             // {optional}
+    order:asc/desc      // {optional}
+
+4.get_products
+	accesskey:90336
+    get_products:1
+    seller_id:1
+    filter:low_stock | out_stock  // {optional}
+    product_id:119      // {optional}
+    category_id:119     // {optional}
+    subcategory_id:119  // {optional}
+    limit:10            // {optional}
+    offset:0            // {optional}
+    sort:id             // {optional}
+    order:ASC / DESC    // {optional}
+    search:value        // {optional}
+	
+
+5. get_financial_statistics
+	accesskey:90336
+    get_financial_statistics:1
+    seller_id:1
+
+6. update_seller_fcm_id
+    accesskey:90336
+    update_seller_fcm_id:1
+    seller_id:1  
+    fcm_id:YOUR_FCM_ID
+	
+7. get_seller_transactions
+    accesskey:90336
+    get_seller_transactions:1
+    seller_id:1
+    offset:0            // {optional}
+    limit:10            // {optional}
+    sort:id             // {optional}
+    order:DESC / ASC    // {optional}
+		
+8. get_orders
+    accesskey:90336
+    get_orders:1
+    seller_id:1
+    order_id:12608          // {optional}
+    start_date:2020-06-05   // {optional} {YYYY-mm-dd}
+    end_date:2020-06-05     // {optional} {YYYY-mm-dd}
+    limit:10                // {optional}
+    offset:0                // {optional}
+    sort:id                 // {optional}
+    order:ASC/DESC          // {optional}
+    filter_order:received | processed | shipped | delivered | cancelled | returned | awaiting_payment    // {optional}
+
+
+9.update_order_status
+    accesskey:90336
+    update_order_status:1
+    order_id:169
+    seller_id:1
+    order_item_id:12577
+    delivery_boy_id:1
+    status:received | processed | shipped | delivered | cancelled | returned
+
+10.add_products
+    accesskey:90336
+    add_products:1
+    seller_id:1
+    name:chocolate-boxes            
+    category_id:31
+    description:chocolates
+    delivery_places:0 OR 1 OR 2       [ 0=included, 1=excluded, 2=all ]
+    pincodes:1,4,5                     //{must blank when delivery_places=2}
+    subcategory_id:115                 // {optional}
+    return_days:7 {optional}
+    tax_id:4                           // {optional}
+    manufacturer:india                 // {optional}
+    made_in:india                      // {optional}
+    return_status:0 / 1                // {optional}
+    cancelable_status:0 / 1            // {optional}
+    till_status:received / processed / shipped           // {optional}
+    indicator:0 - none / 1 - veg / 2 - non-veg          // {optional}
+    image:FILE          
+    other_images[]:FILE
+
+    type:packet
+    measurement:500,400
+    measurement_unit_id:4,1
+    price:175,145
+    discounted_price:60,30              // {optional} 
+    serve_for:Available,sold out
+    stock:992,225
+    stock_unit_id:4,1            
+
+    type:loose
+    measurement:1,1
+    measurement_unit_id:1,5
+    price:100,400
+    discounted_price:20,15              // {optional}
+    serve_for:Available/Sold Out
+    stock:997
+    stock_unit_id:1
+
+11.update_products
+    accesskey:90336
+    update_products:1
+    seller_id:1
+    id:833
+    name:chocolate-popcorn           
+    description:chocolates
+    category_id:31 
+    subcategory_id:115          // {optional}
+    delivery_places:0 OR 1 OR 2 [ 0=included, 1=excluded, 2=all ]
+    pincodes:1,4,5                 //{must blank when delivery_places=2}
+    return_days:7 {optional}
+    tax_id:4                    // {optional}
+    manufacturer:india          // {optional}
+    made_in:india               // {optional}
+    return_status:0 / 1         // {optional}
+    cancelable_status:0 / 1     // {optional}
+    till_status:received / processed / shipped           // {optional}
+    indicator:0 - none / 1 - veg / 2 - non-veg          // {optional}
+    product_variant_id:510,209
+    image:FILE           //{optional}
+    other_images[]:FILE    //{optional}
+    loose_stock:997                   // {optional}
+    loose_stock_unit_id:1             // {optional}
+
+    type:packet
+    measurement:500,400
+    measurement_unit_id:4,1
+    price:175,145
+    discounted_price:60,30    // {optional} 
+    serve_for:Available,sold out
+    stock:992,225
+    stock_unit_id:4,1            
+
+    type:loose
+    measurement:1,1
+    measurement_unit_id:1,5
+    price:100,400
+    discounted_price:20,15       // {optional}
+    serve_for:Available/Sold Out
+    stock:997
+    stock_unit_id:1
+
+12.delete_products
+    accesskey:90336
+    delete_products:1
+    product_variants_id:668
+    product_id:879
+
+13. get_seller_by_id
+    accesskey:90336
+    get_seller_by_id:1
+    seller_id:78
+
+14. get_taxes
+    accesskey:90336
+    get_taxes:1
+
+15. get_units
+    accesskey:90336
+    get_units:1
+
+16. get_pincodes
+    accesskey:90336
+    get_pincodes:1
+
+17. delete_other_images
+    accesskey:90336
+    delete_other_images:1
+    seller_id:1
+    product_id:1
+    image:1    // {index of other image array}
+
+18. delete_variant
+    accesskey:90336
+    delete_variant:1
+    variant_id:1
+
+19.get_customers
+	   accesskey:90336
+	   get_customers:1
+	   pincode_id:119  {optional}
+	   limit:10  {optional}
+	   offset:0    {optional}
+	   sort:id      {optional}
+	   order:ASC/DESC {optional}
+	   search:value {optional}
+
+20.send_request
+        accesskey:90336
+        send_request:1
+        type:seller
+        type_id:3
+        amount:1000
+        message:Message {optional}
+
+21.get_requests
+        accesskey:90336
+        get_requests:1
+        type:seller
+        type_id:3
+        offset:0    // {optional}
+        limit:5     // {optional}
+
+22.update_seller_profile  
+    {optional -> if not added } 
+        accesskey:90336
+        update_seller_profile:1
+        seller_id:1
+        name:ekart seller  
+        store_name:ekart seller store 
+        email:infinitietechnologies03@gmail.com
+        tax_name:GST
+        tax_number:GST6754321
+        pan_number:GNU12345
+        status: 0 -> Deactivated, 1-> Activated/Approved  // {optional}
+        store_url:https://www.store.com            // {optional}
+        description:values                        // {optional}
+        street:street1                         // {optional}
+        pincode_id:1                              // {optional}
+        state:gujarat                             // {optional}
+        account_number:123456789265421                   // {optional}
+        ifsc_code:DFG34557WD                      // {optional}
+        account_name:ekart seller                       // {optional}
+        bank_name:SBI                             // {optional}
+        old_password:                             // {optional}
+        update_password:                          // {optional}
+		confirm_password:                         // {optional}
+		store_logo: image_file  { jpg, png, gif, jpeg } // {optional -> do not set if no change}
+		national_id_card: image_file  { jpg, png, gif, jpeg } // {optional -> do not set if no change}
+		address_proof: image_file  { jpg, png, gif, jpeg }  // {optional -> do not set if no change}
+		latitude:value                       // {optional}
+		longitude:value                         // {optional}
+        
+23.get_delivery_boys
+    accesskey:90336
+    get_delivery_boys:1
+	
+

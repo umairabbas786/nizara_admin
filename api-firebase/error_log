@@ -1,0 +1,406 @@
+[21-Mar-2022 13:03:51 Asia/Kolkata] PHP Warning:  Illegal string offset 'total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 788
+[21-Mar-2022 13:03:51 Asia/Kolkata] PHP Warning:  Illegal string offset 'discount' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 795
+[21-Mar-2022 13:03:51 Asia/Kolkata] PHP Warning:  Illegal string offset 'discount_rupees' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 803
+[21-Mar-2022 13:03:51 Asia/Kolkata] PHP Warning:  Illegal string offset 'final_total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 804
+[21-Mar-2022 13:03:51 Asia/Kolkata] PHP Warning:  Illegal string offset 'final_total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 805
+[21-Mar-2022 13:03:51 Asia/Kolkata] PHP Warning:  Illegal string offset 'date_added' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 806
+[21-Mar-2022 13:03:51 Asia/Kolkata] PHP Warning:  Illegal string offset 'date_added' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 806
+[21-Mar-2022 13:03:51 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 807
+[21-Mar-2022 13:03:51 Asia/Kolkata] PHP Warning:  Illegal string offset 'items' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 809
+[21-Mar-2022 13:03:51 Asia/Kolkata] PHP Warning:  Illegal string offset 'status' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 810
+[21-Mar-2022 13:03:51 Asia/Kolkata] PHP Warning:  Illegal string offset 'status' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 810
+[21-Mar-2022 13:03:51 Asia/Kolkata] PHP Warning:  Cannot assign an empty string to a string offset in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 810
+[21-Mar-2022 13:03:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Cannot unset string offsets in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php:811
+Stack trace:
+#0 {main}
+  thrown in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 811
+[21-Mar-2022 13:07:43 Asia/Kolkata] PHP Warning:  Illegal string offset 'total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 788
+[21-Mar-2022 13:07:43 Asia/Kolkata] PHP Warning:  Illegal string offset 'discount' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 795
+[21-Mar-2022 13:07:43 Asia/Kolkata] PHP Warning:  Illegal string offset 'discount_rupees' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 803
+[21-Mar-2022 13:07:43 Asia/Kolkata] PHP Warning:  Illegal string offset 'final_total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 804
+[21-Mar-2022 13:07:43 Asia/Kolkata] PHP Warning:  Illegal string offset 'final_total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 805
+[21-Mar-2022 13:07:43 Asia/Kolkata] PHP Warning:  Illegal string offset 'date_added' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 806
+[21-Mar-2022 13:07:43 Asia/Kolkata] PHP Warning:  Illegal string offset 'date_added' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 806
+[21-Mar-2022 13:07:43 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 807
+[21-Mar-2022 13:07:43 Asia/Kolkata] PHP Warning:  Illegal string offset 'items' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 809
+[21-Mar-2022 13:07:43 Asia/Kolkata] PHP Warning:  Illegal string offset 'status' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 810
+[21-Mar-2022 13:07:43 Asia/Kolkata] PHP Warning:  Illegal string offset 'status' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 810
+[21-Mar-2022 13:07:43 Asia/Kolkata] PHP Warning:  Cannot assign an empty string to a string offset in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 810
+[21-Mar-2022 13:07:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Cannot unset string offsets in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php:811
+Stack trace:
+#0 {main}
+  thrown in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 811
+[21-Mar-2022 13:08:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 788
+[21-Mar-2022 13:08:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'discount' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 795
+[21-Mar-2022 13:08:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'discount_rupees' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 803
+[21-Mar-2022 13:08:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'final_total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 804
+[21-Mar-2022 13:08:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'final_total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 805
+[21-Mar-2022 13:08:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'date_added' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 806
+[21-Mar-2022 13:08:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'date_added' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 806
+[21-Mar-2022 13:08:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 807
+[21-Mar-2022 13:08:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'items' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 809
+[21-Mar-2022 13:08:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'status' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 810
+[21-Mar-2022 13:08:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'status' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 810
+[21-Mar-2022 13:08:27 Asia/Kolkata] PHP Warning:  Cannot assign an empty string to a string offset in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 810
+[21-Mar-2022 13:08:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Cannot unset string offsets in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php:811
+Stack trace:
+#0 {main}
+  thrown in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 811
+[21-Mar-2022 13:08:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 788
+[21-Mar-2022 13:08:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'discount' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 795
+[21-Mar-2022 13:08:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'discount_rupees' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 803
+[21-Mar-2022 13:08:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'final_total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 804
+[21-Mar-2022 13:08:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'final_total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 805
+[21-Mar-2022 13:08:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'date_added' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 806
+[21-Mar-2022 13:08:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'date_added' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 806
+[21-Mar-2022 13:08:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 807
+[21-Mar-2022 13:08:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'items' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 809
+[21-Mar-2022 13:08:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'status' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 810
+[21-Mar-2022 13:08:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'status' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 810
+[21-Mar-2022 13:08:27 Asia/Kolkata] PHP Warning:  Cannot assign an empty string to a string offset in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 810
+[21-Mar-2022 13:08:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Cannot unset string offsets in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php:811
+Stack trace:
+#0 {main}
+  thrown in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 811
+[21-Mar-2022 13:08:35 Asia/Kolkata] PHP Warning:  Illegal string offset 'total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 788
+[21-Mar-2022 13:08:35 Asia/Kolkata] PHP Warning:  Illegal string offset 'discount' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 795
+[21-Mar-2022 13:08:35 Asia/Kolkata] PHP Warning:  Illegal string offset 'discount_rupees' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 803
+[21-Mar-2022 13:08:35 Asia/Kolkata] PHP Warning:  Illegal string offset 'final_total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 804
+[21-Mar-2022 13:08:35 Asia/Kolkata] PHP Warning:  Illegal string offset 'final_total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 805
+[21-Mar-2022 13:08:35 Asia/Kolkata] PHP Warning:  Illegal string offset 'date_added' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 806
+[21-Mar-2022 13:08:35 Asia/Kolkata] PHP Warning:  Illegal string offset 'date_added' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 806
+[21-Mar-2022 13:08:35 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 807
+[21-Mar-2022 13:08:35 Asia/Kolkata] PHP Warning:  Illegal string offset 'items' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 809
+[21-Mar-2022 13:08:35 Asia/Kolkata] PHP Warning:  Illegal string offset 'status' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 810
+[21-Mar-2022 13:08:35 Asia/Kolkata] PHP Warning:  Illegal string offset 'status' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 810
+[21-Mar-2022 13:08:35 Asia/Kolkata] PHP Warning:  Cannot assign an empty string to a string offset in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 810
+[21-Mar-2022 13:08:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Cannot unset string offsets in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php:811
+Stack trace:
+#0 {main}
+  thrown in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 811
+[21-Mar-2022 13:14:34 Asia/Kolkata] PHP Warning:  Illegal string offset 'total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 788
+[21-Mar-2022 13:14:34 Asia/Kolkata] PHP Warning:  Illegal string offset 'discount' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 795
+[21-Mar-2022 13:14:34 Asia/Kolkata] PHP Warning:  Illegal string offset 'discount_rupees' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 803
+[21-Mar-2022 13:14:34 Asia/Kolkata] PHP Warning:  Illegal string offset 'final_total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 804
+[21-Mar-2022 13:14:34 Asia/Kolkata] PHP Warning:  Illegal string offset 'final_total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 805
+[21-Mar-2022 13:14:34 Asia/Kolkata] PHP Warning:  Illegal string offset 'date_added' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 806
+[21-Mar-2022 13:14:34 Asia/Kolkata] PHP Warning:  Illegal string offset 'date_added' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 806
+[21-Mar-2022 13:14:34 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 807
+[21-Mar-2022 13:14:34 Asia/Kolkata] PHP Warning:  Illegal string offset 'items' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 809
+[21-Mar-2022 13:14:34 Asia/Kolkata] PHP Warning:  Illegal string offset 'status' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 810
+[21-Mar-2022 13:14:34 Asia/Kolkata] PHP Warning:  Illegal string offset 'status' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 810
+[21-Mar-2022 13:14:34 Asia/Kolkata] PHP Warning:  Cannot assign an empty string to a string offset in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 810
+[21-Mar-2022 13:14:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Cannot unset string offsets in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php:811
+Stack trace:
+#0 {main}
+  thrown in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 811
+[21-Mar-2022 13:17:56 Asia/Kolkata] PHP Warning:  Illegal string offset 'total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 788
+[21-Mar-2022 13:17:56 Asia/Kolkata] PHP Warning:  Illegal string offset 'discount' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 795
+[21-Mar-2022 13:17:56 Asia/Kolkata] PHP Warning:  Illegal string offset 'discount_rupees' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 803
+[21-Mar-2022 13:17:56 Asia/Kolkata] PHP Warning:  Illegal string offset 'final_total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 804
+[21-Mar-2022 13:17:56 Asia/Kolkata] PHP Warning:  Illegal string offset 'final_total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 805
+[21-Mar-2022 13:17:56 Asia/Kolkata] PHP Warning:  Illegal string offset 'date_added' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 806
+[21-Mar-2022 13:17:56 Asia/Kolkata] PHP Warning:  Illegal string offset 'date_added' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 806
+[21-Mar-2022 13:17:56 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 807
+[21-Mar-2022 13:17:56 Asia/Kolkata] PHP Warning:  Illegal string offset 'items' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 809
+[21-Mar-2022 13:17:56 Asia/Kolkata] PHP Warning:  Illegal string offset 'status' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 810
+[21-Mar-2022 13:17:56 Asia/Kolkata] PHP Warning:  Illegal string offset 'status' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 810
+[21-Mar-2022 13:17:56 Asia/Kolkata] PHP Warning:  Cannot assign an empty string to a string offset in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 810
+[21-Mar-2022 13:17:56 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Cannot unset string offsets in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php:811
+Stack trace:
+#0 {main}
+  thrown in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 811
+[21-Mar-2022 13:19:35 Asia/Kolkata] PHP Warning:  Illegal string offset 'total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 788
+[21-Mar-2022 13:19:35 Asia/Kolkata] PHP Warning:  Illegal string offset 'discount' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 795
+[21-Mar-2022 13:19:35 Asia/Kolkata] PHP Warning:  Illegal string offset 'discount_rupees' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 803
+[21-Mar-2022 13:19:35 Asia/Kolkata] PHP Warning:  Illegal string offset 'final_total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 804
+[21-Mar-2022 13:19:35 Asia/Kolkata] PHP Warning:  Illegal string offset 'final_total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 805
+[21-Mar-2022 13:19:35 Asia/Kolkata] PHP Warning:  Illegal string offset 'date_added' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 806
+[21-Mar-2022 13:19:35 Asia/Kolkata] PHP Warning:  Illegal string offset 'date_added' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 806
+[21-Mar-2022 13:19:35 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 807
+[21-Mar-2022 13:19:35 Asia/Kolkata] PHP Warning:  Illegal string offset 'items' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 809
+[21-Mar-2022 13:19:35 Asia/Kolkata] PHP Warning:  Illegal string offset 'status' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 810
+[21-Mar-2022 13:19:35 Asia/Kolkata] PHP Warning:  Illegal string offset 'status' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 810
+[21-Mar-2022 13:19:35 Asia/Kolkata] PHP Warning:  Cannot assign an empty string to a string offset in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 810
+[21-Mar-2022 13:19:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Cannot unset string offsets in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php:811
+Stack trace:
+#0 {main}
+  thrown in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 811
+[21-Mar-2022 14:25:18 Asia/Kolkata] PHP Warning:  Illegal string offset 'total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 788
+[21-Mar-2022 14:25:18 Asia/Kolkata] PHP Warning:  Illegal string offset 'discount' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 795
+[21-Mar-2022 14:25:18 Asia/Kolkata] PHP Warning:  Illegal string offset 'discount_rupees' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 803
+[21-Mar-2022 14:25:18 Asia/Kolkata] PHP Warning:  Illegal string offset 'final_total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 804
+[21-Mar-2022 14:25:18 Asia/Kolkata] PHP Warning:  Illegal string offset 'final_total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 805
+[21-Mar-2022 14:25:18 Asia/Kolkata] PHP Warning:  Illegal string offset 'date_added' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 806
+[21-Mar-2022 14:25:18 Asia/Kolkata] PHP Warning:  Illegal string offset 'date_added' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 806
+[21-Mar-2022 14:25:18 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 807
+[21-Mar-2022 14:25:18 Asia/Kolkata] PHP Warning:  Illegal string offset 'items' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 809
+[21-Mar-2022 14:25:18 Asia/Kolkata] PHP Warning:  Illegal string offset 'status' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 810
+[21-Mar-2022 14:25:18 Asia/Kolkata] PHP Warning:  Illegal string offset 'status' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 810
+[21-Mar-2022 14:25:18 Asia/Kolkata] PHP Warning:  Cannot assign an empty string to a string offset in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 810
+[21-Mar-2022 14:25:18 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Cannot unset string offsets in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php:811
+Stack trace:
+#0 {main}
+  thrown in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 811
+[22-Mar-2022 19:58:50 Asia/Kolkata] PHP Warning:  Illegal string offset 'total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 405
+[22-Mar-2022 19:58:50 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 417
+[22-Mar-2022 19:58:50 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 418
+[22-Mar-2022 19:58:50 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 419
+[22-Mar-2022 19:58:50 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 420
+[22-Mar-2022 19:58:50 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 421
+[22-Mar-2022 19:58:50 Asia/Kolkata] PHP Warning:  Illegal string offset 'category_name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 422
+[22-Mar-2022 19:58:50 Asia/Kolkata] PHP Warning:  Illegal string offset 'subtitle' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 423
+[22-Mar-2022 19:58:50 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:58:50 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:58:50 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:58:50 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:58:56 Asia/Kolkata] PHP Warning:  Illegal string offset 'total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 405
+[22-Mar-2022 19:58:56 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 417
+[22-Mar-2022 19:58:56 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 418
+[22-Mar-2022 19:58:56 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 419
+[22-Mar-2022 19:58:56 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 420
+[22-Mar-2022 19:58:56 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 421
+[22-Mar-2022 19:58:56 Asia/Kolkata] PHP Warning:  Illegal string offset 'category_name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 422
+[22-Mar-2022 19:58:56 Asia/Kolkata] PHP Warning:  Illegal string offset 'subtitle' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 423
+[22-Mar-2022 19:58:56 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:58:56 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:58:56 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:58:56 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:04 Asia/Kolkata] PHP Warning:  Illegal string offset 'total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 405
+[22-Mar-2022 19:59:04 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 417
+[22-Mar-2022 19:59:04 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 418
+[22-Mar-2022 19:59:04 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 419
+[22-Mar-2022 19:59:04 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 420
+[22-Mar-2022 19:59:04 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 421
+[22-Mar-2022 19:59:04 Asia/Kolkata] PHP Warning:  Illegal string offset 'category_name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 422
+[22-Mar-2022 19:59:04 Asia/Kolkata] PHP Warning:  Illegal string offset 'subtitle' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 423
+[22-Mar-2022 19:59:04 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:04 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:04 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:04 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:09 Asia/Kolkata] PHP Warning:  Illegal string offset 'total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 405
+[22-Mar-2022 19:59:09 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 417
+[22-Mar-2022 19:59:09 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 418
+[22-Mar-2022 19:59:09 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 419
+[22-Mar-2022 19:59:09 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 420
+[22-Mar-2022 19:59:09 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 421
+[22-Mar-2022 19:59:09 Asia/Kolkata] PHP Warning:  Illegal string offset 'category_name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 422
+[22-Mar-2022 19:59:09 Asia/Kolkata] PHP Warning:  Illegal string offset 'subtitle' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 423
+[22-Mar-2022 19:59:09 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:09 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:09 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:09 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:13 Asia/Kolkata] PHP Warning:  Illegal string offset 'total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 405
+[22-Mar-2022 19:59:13 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 417
+[22-Mar-2022 19:59:13 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 418
+[22-Mar-2022 19:59:13 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 419
+[22-Mar-2022 19:59:13 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 420
+[22-Mar-2022 19:59:13 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 421
+[22-Mar-2022 19:59:13 Asia/Kolkata] PHP Warning:  Illegal string offset 'category_name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 422
+[22-Mar-2022 19:59:13 Asia/Kolkata] PHP Warning:  Illegal string offset 'subtitle' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 423
+[22-Mar-2022 19:59:13 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:13 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:13 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:13 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:24 Asia/Kolkata] PHP Warning:  Illegal string offset 'total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 405
+[22-Mar-2022 19:59:24 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 417
+[22-Mar-2022 19:59:24 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 418
+[22-Mar-2022 19:59:24 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 419
+[22-Mar-2022 19:59:24 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 420
+[22-Mar-2022 19:59:24 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 421
+[22-Mar-2022 19:59:24 Asia/Kolkata] PHP Warning:  Illegal string offset 'category_name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 422
+[22-Mar-2022 19:59:24 Asia/Kolkata] PHP Warning:  Illegal string offset 'subtitle' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 423
+[22-Mar-2022 19:59:24 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:24 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:24 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:24 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 405
+[22-Mar-2022 19:59:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 417
+[22-Mar-2022 19:59:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 418
+[22-Mar-2022 19:59:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 419
+[22-Mar-2022 19:59:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 420
+[22-Mar-2022 19:59:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 421
+[22-Mar-2022 19:59:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'category_name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 422
+[22-Mar-2022 19:59:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'subtitle' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 423
+[22-Mar-2022 19:59:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:28 Asia/Kolkata] PHP Warning:  Illegal string offset 'total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 405
+[22-Mar-2022 19:59:28 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 417
+[22-Mar-2022 19:59:28 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 418
+[22-Mar-2022 19:59:28 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 419
+[22-Mar-2022 19:59:28 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 420
+[22-Mar-2022 19:59:28 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 421
+[22-Mar-2022 19:59:28 Asia/Kolkata] PHP Warning:  Illegal string offset 'category_name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 422
+[22-Mar-2022 19:59:28 Asia/Kolkata] PHP Warning:  Illegal string offset 'subtitle' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 423
+[22-Mar-2022 19:59:28 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:28 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:28 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:28 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:30 Asia/Kolkata] PHP Warning:  Illegal string offset 'total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 405
+[22-Mar-2022 19:59:30 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 417
+[22-Mar-2022 19:59:30 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 418
+[22-Mar-2022 19:59:30 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 419
+[22-Mar-2022 19:59:30 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 420
+[22-Mar-2022 19:59:30 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 421
+[22-Mar-2022 19:59:30 Asia/Kolkata] PHP Warning:  Illegal string offset 'category_name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 422
+[22-Mar-2022 19:59:30 Asia/Kolkata] PHP Warning:  Illegal string offset 'subtitle' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 423
+[22-Mar-2022 19:59:30 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:30 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:30 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:30 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:31 Asia/Kolkata] PHP Warning:  Illegal string offset 'total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 405
+[22-Mar-2022 19:59:31 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 417
+[22-Mar-2022 19:59:31 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 418
+[22-Mar-2022 19:59:31 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 419
+[22-Mar-2022 19:59:31 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 420
+[22-Mar-2022 19:59:31 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 421
+[22-Mar-2022 19:59:31 Asia/Kolkata] PHP Warning:  Illegal string offset 'category_name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 422
+[22-Mar-2022 19:59:31 Asia/Kolkata] PHP Warning:  Illegal string offset 'subtitle' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 423
+[22-Mar-2022 19:59:31 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:31 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:31 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:31 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:32 Asia/Kolkata] PHP Warning:  Illegal string offset 'total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 405
+[22-Mar-2022 19:59:32 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 417
+[22-Mar-2022 19:59:32 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 418
+[22-Mar-2022 19:59:32 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 419
+[22-Mar-2022 19:59:32 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 420
+[22-Mar-2022 19:59:32 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 421
+[22-Mar-2022 19:59:32 Asia/Kolkata] PHP Warning:  Illegal string offset 'category_name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 422
+[22-Mar-2022 19:59:32 Asia/Kolkata] PHP Warning:  Illegal string offset 'subtitle' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 423
+[22-Mar-2022 19:59:32 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:32 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:32 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:32 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:36 Asia/Kolkata] PHP Warning:  Illegal string offset 'total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 405
+[22-Mar-2022 19:59:36 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 417
+[22-Mar-2022 19:59:36 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 418
+[22-Mar-2022 19:59:36 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 419
+[22-Mar-2022 19:59:36 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 420
+[22-Mar-2022 19:59:36 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 421
+[22-Mar-2022 19:59:36 Asia/Kolkata] PHP Warning:  Illegal string offset 'category_name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 422
+[22-Mar-2022 19:59:36 Asia/Kolkata] PHP Warning:  Illegal string offset 'subtitle' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 423
+[22-Mar-2022 19:59:36 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:36 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:36 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:36 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:38 Asia/Kolkata] PHP Warning:  Illegal string offset 'total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 405
+[22-Mar-2022 19:59:38 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 417
+[22-Mar-2022 19:59:38 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 418
+[22-Mar-2022 19:59:38 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 419
+[22-Mar-2022 19:59:38 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 420
+[22-Mar-2022 19:59:38 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 421
+[22-Mar-2022 19:59:38 Asia/Kolkata] PHP Warning:  Illegal string offset 'category_name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 422
+[22-Mar-2022 19:59:38 Asia/Kolkata] PHP Warning:  Illegal string offset 'subtitle' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 423
+[22-Mar-2022 19:59:38 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:38 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:38 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 19:59:38 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 20:00:51 Asia/Kolkata] PHP Warning:  Illegal string offset 'total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 405
+[22-Mar-2022 20:00:51 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 417
+[22-Mar-2022 20:00:51 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 418
+[22-Mar-2022 20:00:51 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 419
+[22-Mar-2022 20:00:51 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 420
+[22-Mar-2022 20:00:51 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 421
+[22-Mar-2022 20:00:51 Asia/Kolkata] PHP Warning:  Illegal string offset 'category_name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 422
+[22-Mar-2022 20:00:51 Asia/Kolkata] PHP Warning:  Illegal string offset 'subtitle' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 423
+[22-Mar-2022 20:00:51 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 20:00:51 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 20:00:51 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 20:00:51 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 20:01:10 Asia/Kolkata] PHP Warning:  Illegal string offset 'total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 405
+[22-Mar-2022 20:01:10 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 417
+[22-Mar-2022 20:01:10 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 418
+[22-Mar-2022 20:01:10 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 419
+[22-Mar-2022 20:01:10 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 420
+[22-Mar-2022 20:01:10 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 421
+[22-Mar-2022 20:01:10 Asia/Kolkata] PHP Warning:  Illegal string offset 'category_name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 422
+[22-Mar-2022 20:01:10 Asia/Kolkata] PHP Warning:  Illegal string offset 'subtitle' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 423
+[22-Mar-2022 20:01:10 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 20:01:10 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 20:01:10 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 20:01:10 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 20:01:17 Asia/Kolkata] PHP Warning:  Illegal string offset 'total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 405
+[22-Mar-2022 20:01:17 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 417
+[22-Mar-2022 20:01:17 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 418
+[22-Mar-2022 20:01:17 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 419
+[22-Mar-2022 20:01:17 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 420
+[22-Mar-2022 20:01:17 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 421
+[22-Mar-2022 20:01:17 Asia/Kolkata] PHP Warning:  Illegal string offset 'category_name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 422
+[22-Mar-2022 20:01:17 Asia/Kolkata] PHP Warning:  Illegal string offset 'subtitle' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 423
+[22-Mar-2022 20:01:17 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 20:01:17 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 20:01:17 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 20:01:17 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 20:01:41 Asia/Kolkata] PHP Warning:  Illegal string offset 'total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 405
+[22-Mar-2022 20:01:41 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 417
+[22-Mar-2022 20:01:41 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 418
+[22-Mar-2022 20:01:41 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 419
+[22-Mar-2022 20:01:41 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 420
+[22-Mar-2022 20:01:41 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 421
+[22-Mar-2022 20:01:41 Asia/Kolkata] PHP Warning:  Illegal string offset 'category_name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 422
+[22-Mar-2022 20:01:41 Asia/Kolkata] PHP Warning:  Illegal string offset 'subtitle' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 423
+[22-Mar-2022 20:01:41 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 20:01:41 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 20:01:41 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 20:01:41 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 20:02:18 Asia/Kolkata] PHP Warning:  Illegal string offset 'total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 405
+[22-Mar-2022 20:02:18 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 417
+[22-Mar-2022 20:02:18 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 418
+[22-Mar-2022 20:02:18 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 419
+[22-Mar-2022 20:02:18 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 420
+[22-Mar-2022 20:02:18 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 421
+[22-Mar-2022 20:02:18 Asia/Kolkata] PHP Warning:  Illegal string offset 'category_name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 422
+[22-Mar-2022 20:02:18 Asia/Kolkata] PHP Warning:  Illegal string offset 'subtitle' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 423
+[22-Mar-2022 20:02:18 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 20:02:18 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 20:02:18 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 20:02:18 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-bootstrap-table-data.php on line 424
+[22-Mar-2022 20:03:09 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-subcategories.php on line 72
+[22-Mar-2022 20:03:09 Asia/Kolkata] PHP Warning:  Cannot assign an empty string to a string offset in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-subcategories.php on line 72
+[22-Mar-2022 20:03:09 Asia/Kolkata] PHP Warning:  Illegal string offset 'total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-subcategories.php on line 76
+[22-Mar-2022 20:03:15 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-categories.php on line 68
+[22-Mar-2022 20:03:15 Asia/Kolkata] PHP Warning:  Cannot assign an empty string to a string offset in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-categories.php on line 68
+[22-Mar-2022 20:03:15 Asia/Kolkata] PHP Warning:  Illegal string offset 'slug' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-categories.php on line 69
+[22-Mar-2022 20:03:15 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-categories.php on line 68
+[22-Mar-2022 20:03:15 Asia/Kolkata] PHP Warning:  Cannot assign an empty string to a string offset in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-categories.php on line 68
+[22-Mar-2022 20:03:15 Asia/Kolkata] PHP Warning:  Illegal string offset 'slug' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-categories.php on line 69
+[22-Mar-2022 20:03:15 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-categories.php on line 68
+[22-Mar-2022 20:03:15 Asia/Kolkata] PHP Warning:  Cannot assign an empty string to a string offset in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-categories.php on line 68
+[22-Mar-2022 20:03:15 Asia/Kolkata] PHP Warning:  Illegal string offset 'slug' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-categories.php on line 69
+[22-Mar-2022 20:03:15 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-categories.php on line 68
+[22-Mar-2022 20:03:15 Asia/Kolkata] PHP Warning:  Cannot assign an empty string to a string offset in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-categories.php on line 68
+[22-Mar-2022 20:03:15 Asia/Kolkata] PHP Warning:  Illegal string offset 'slug' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-categories.php on line 69
+[22-Mar-2022 20:03:15 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-categories.php on line 68
+[22-Mar-2022 20:03:15 Asia/Kolkata] PHP Warning:  Cannot assign an empty string to a string offset in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-categories.php on line 68
+[22-Mar-2022 20:03:15 Asia/Kolkata] PHP Warning:  Illegal string offset 'slug' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-categories.php on line 69
+[22-Mar-2022 20:03:15 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-categories.php on line 68
+[22-Mar-2022 20:03:15 Asia/Kolkata] PHP Warning:  Cannot assign an empty string to a string offset in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-categories.php on line 68
+[22-Mar-2022 20:03:15 Asia/Kolkata] PHP Warning:  Illegal string offset 'slug' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-categories.php on line 69
+[22-Mar-2022 20:03:15 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-categories.php on line 68
+[22-Mar-2022 20:03:15 Asia/Kolkata] PHP Warning:  Cannot assign an empty string to a string offset in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-categories.php on line 68
+[22-Mar-2022 20:03:15 Asia/Kolkata] PHP Warning:  Illegal string offset 'slug' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-categories.php on line 69
+[22-Mar-2022 20:03:15 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-categories.php on line 68
+[22-Mar-2022 20:03:15 Asia/Kolkata] PHP Warning:  Cannot assign an empty string to a string offset in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-categories.php on line 68
+[22-Mar-2022 20:03:15 Asia/Kolkata] PHP Warning:  Illegal string offset 'slug' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-categories.php on line 69
+[22-Mar-2022 20:03:15 Asia/Kolkata] PHP Warning:  Illegal string offset 'image' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-categories.php on line 68
+[22-Mar-2022 20:03:15 Asia/Kolkata] PHP Warning:  Cannot assign an empty string to a string offset in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-categories.php on line 68
+[22-Mar-2022 20:03:15 Asia/Kolkata] PHP Warning:  Illegal string offset 'slug' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/get-categories.php on line 69
+[29-Mar-2022 23:10:45 Asia/Kolkata] PHP Warning:  Illegal string offset 'total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 788
+[29-Mar-2022 23:10:45 Asia/Kolkata] PHP Warning:  Illegal string offset 'discount' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 795
+[29-Mar-2022 23:10:45 Asia/Kolkata] PHP Warning:  Illegal string offset 'discount_rupees' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 803
+[29-Mar-2022 23:10:45 Asia/Kolkata] PHP Warning:  Illegal string offset 'final_total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 804
+[29-Mar-2022 23:10:45 Asia/Kolkata] PHP Warning:  Illegal string offset 'final_total' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 805
+[29-Mar-2022 23:10:45 Asia/Kolkata] PHP Warning:  Illegal string offset 'date_added' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 806
+[29-Mar-2022 23:10:45 Asia/Kolkata] PHP Warning:  Illegal string offset 'date_added' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 806
+[29-Mar-2022 23:10:45 Asia/Kolkata] PHP Warning:  Illegal string offset 'id' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 807
+[29-Mar-2022 23:10:45 Asia/Kolkata] PHP Warning:  Illegal string offset 'items' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 809
+[29-Mar-2022 23:10:45 Asia/Kolkata] PHP Warning:  Illegal string offset 'status' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 810
+[29-Mar-2022 23:10:45 Asia/Kolkata] PHP Warning:  Illegal string offset 'status' in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 810
+[29-Mar-2022 23:10:45 Asia/Kolkata] PHP Warning:  Cannot assign an empty string to a string offset in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 810
+[29-Mar-2022 23:10:45 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Cannot unset string offsets in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php:811
+Stack trace:
+#0 {main}
+  thrown in /home/monkeycr/public_html/nizara.in/admin/api-firebase/order-process.php on line 811
