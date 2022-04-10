@@ -164,8 +164,8 @@ if ((!isset($_GET['category_id']) && ($_GET['category_id'] == '')) && !(isset($_
                         <div class="alert alert-danger topmargin-sm">You have no permission to update categories order.</div>
                     <?php } ?> -->
 
-                    <form id="category_form" method="POST" action="categories-order.php" data-parsley-validate class="form-horizontal form-label-left">
-                        <input type="hidden" id="update_categories_order" name="update_categories_order" required value='1' />
+                    <form id="subcategory_form" method="POST" action="subcategories-order.php" data-parsley-validate class="form-horizontal form-label-left">
+                        <input type="hidden" id="update_subcategories_order" name="update_subcategories_order" required value='1' />
                         <div class="form-group" style="overflow-y:scroll;height:400px;">
                             <input type="hidden" name="row_order" id="row_order" required readonly />
                             <ol id="sortable-row">
@@ -217,7 +217,7 @@ if ((!isset($_GET['category_id']) && ($_GET['category_id'] == '')) && !(isset($_
     });
 </script>
 <script>
-    $('#category_form').on('submit', function(e) {
+    $('#subcategory_form').on('submit', function(e) {
         e.preventDefault();
         var selectedLanguage = new Array();
         $('ol#sortable-row li').each(function() {
@@ -225,7 +225,7 @@ if ((!isset($_GET['category_id']) && ($_GET['category_id'] == '')) && !(isset($_
         });
         $("#row_order").val(selectedLanguage);
         var formData = new FormData(this);
-        if ($("#category_form").validate().form()) {
+        if ($("#subcategory_form").validate().form()) {
             $.ajax({
                 type: 'POST',
                 url: $(this).attr('action'),
