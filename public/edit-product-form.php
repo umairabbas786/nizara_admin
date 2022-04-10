@@ -18,9 +18,15 @@ $product_status = "";
 $sql = "select id,name from category order by id asc";
 $db->sql($sql);
 $category_data = $db->getResult();
+$sql = "select id,name from brand order by id asc";
+$db->sql($sql);
+$brand_data = $db->getResult();
 $sql = "select * from subcategory";
 $db->sql($sql);
 $subcategory = $db->getResult();
+$sql = "select * from subbrand";
+$db->sql($sql);
+$subbrand = $db->getResult();
 $sql = "SELECT image, other_images FROM products WHERE id =" . $ID;
 $db->sql($sql);
 $res = $db->getResult();
@@ -71,7 +77,9 @@ if (isset($_POST['btnEdit'])) {
         //     echo $pincode_ids;
         //     return false;
         $subcategory_id = (isset($_POST['subcategory_id']) && $_POST['subcategory_id'] != '') ? $db->escapeString($fn->xss_clean($_POST['subcategory_id'])) : 0;
+        $subbrand_id = (isset($_POST['subbrand_id']) && $_POST['subbrand_id'] != '') ? $db->escapeString($fn->xss_clean($_POST['subbrand_id'])) : 0;
         $category_id = $db->escapeString($fn->xss_clean($_POST['category_id']));
+        $brand_id = $db->escapeString($fn->xss_clean($_POST['brand_id']));
         $seller_id = $db->escapeString($fn->xss_clean($_POST['seller_id']));
         $serve_for = $db->escapeString($fn->xss_clean($_POST['serve_for']));
         $description = $db->escapeString($fn->xss_clean($_POST['description']));
@@ -184,11 +192,11 @@ if (isset($_POST['btnEdit'])) {
                 $upload = move_uploaded_file($_FILES['image']['tmp_name'], 'upload/images/' . $image);
 
                 $upload_image = 'upload/images/' . $image;
-                $sql_query = "UPDATE products SET name = '$name' ,is_approved= '$is_approved',type= '$pincode_type',pincodes = '$pincode_ids',tax_id = '$tax_id' ,seller_id = '$seller_id' ,slug = '$slug' , subcategory_id = '$subcategory_id', image = '$upload_image', description = '$description', indicator = '$indicator', manufacturer = '$manufacturer', made_in = '$made_in', return_status = '$return_status', return_days = '$return_days', cancelable_status = '$cancelable_status', till_status = '$till_status',`status` = $pr_status WHERE id = $ID";
+                $sql_query = "UPDATE products SET name = '$name' ,is_approved= '$is_approved',type= '$pincode_type',pincodes = '$pincode_ids',tax_id = '$tax_id' ,seller_id = '$seller_id' ,slug = '$slug' , subcategory_id = '$subcategory_id', subbrand_id = '$subbrand_id', image = '$upload_image', description = '$description', indicator = '$indicator', manufacturer = '$manufacturer', made_in = '$made_in', return_status = '$return_status', return_days = '$return_days', cancelable_status = '$cancelable_status', till_status = '$till_status',`status` = $pr_status WHERE id = $ID";
             } else if ($pincode_type != "") {
-                $sql_query = "UPDATE products SET name = '$name' ,is_approved= '$is_approved',type= '$pincode_type',pincodes = '$pincode_ids',tax_id = '$tax_id' ,seller_id = '$seller_id' ,slug = '$slug' ,category_id = '$category_id' ,subcategory_id = '$subcategory_id' ,description = '$description', indicator = '$indicator', manufacturer = '$manufacturer', made_in = '$made_in', return_status = '$return_status',return_days = '$return_days', cancelable_status = '$cancelable_status', till_status = '$till_status' ,`status` = $pr_status WHERE id = $ID";
+                $sql_query = "UPDATE products SET name = '$name' ,is_approved= '$is_approved',type= '$pincode_type',pincodes = '$pincode_ids',tax_id = '$tax_id' ,seller_id = '$seller_id' ,slug = '$slug' ,category_id = '$category_id' ,brand_id = '$brand_id',subbrand_id = '$subbrand_id',subcategory_id = '$subcategory_id' ,description = '$description', indicator = '$indicator', manufacturer = '$manufacturer', made_in = '$made_in', return_status = '$return_status',return_days = '$return_days', cancelable_status = '$cancelable_status', till_status = '$till_status' ,`status` = $pr_status WHERE id = $ID";
             } else {
-                $sql_query = "UPDATE products SET name = '$name' ,is_approved= '$is_approved',tax_id = '$tax_id' ,seller_id = '$seller_id' ,slug = '$slug' ,category_id = '$category_id' ,subcategory_id = '$subcategory_id' ,description = '$description', indicator = '$indicator', manufacturer = '$manufacturer', made_in = '$made_in', return_status = '$return_status',return_days = '$return_days', cancelable_status = '$cancelable_status', till_status = '$till_status' ,`status` = $pr_status WHERE id = $ID";
+                $sql_query = "UPDATE products SET name = '$name' ,is_approved= '$is_approved',tax_id = '$tax_id' ,seller_id = '$seller_id' ,slug = '$slug' ,category_id = '$category_id' ,brand_id = '$brand_id',subbrand_id = '$subbrand_id',subcategory_id = '$subcategory_id' ,description = '$description', indicator = '$indicator', manufacturer = '$manufacturer', made_in = '$made_in', return_status = '$return_status',return_days = '$return_days', cancelable_status = '$cancelable_status', till_status = '$till_status' ,`status` = $pr_status WHERE id = $ID";
             }
             // echo $sql_query;
             $db->sql($sql_query);
@@ -704,6 +712,20 @@ function isJSON($string)
                                     </div>
 
                                     <div class="form-group">
+                                        <label for="exampleInputEmail1">Brand :</label> <i class="text-danger asterik">*</i> <?php echo isset($error['category_id']) ? $error['category_id'] : ''; ?>
+                                        <select name="brand_id" id="brand_id" class="form-control">
+                                            <?php
+                                            if ($permissions['categories']['read'] == 1) {
+                                                foreach ($brand_data as $row) { ?>
+                                                    <option value="<?php echo $row['id']; ?>" <?= ($row['id'] == $data['category_id']) ? "selected" : ""; ?>><?php echo $row['name']; ?></option>
+                                                <?php }
+                                            } else { ?>
+                                                <option value="">---Select Brand---</option>
+                                                <?php } ?>?>
+                                        </select>
+                                    </div>
+
+                                    <div class="form-group">
                                         <label for="exampleInputEmail1">Sub Category :</label>
                                         <select name="subcategory_id" id="subcategory_id" class="form-control">
 
@@ -719,6 +741,24 @@ function isJSON($string)
                                             <?php } ?>
                                         </select>
                                     </div>
+
+                                    <div class="form-group">
+                                        <label for="exampleInputEmail1">Sub Brand :</label>
+                                        <select name="subbrand_id" id="subbrand_id" class="form-control">
+
+                                            <?php
+                                            if ($permissions['subcategories']['read'] == 1) { ?>
+                                                <option value="">---Select Subbrand---</option>
+                                                <?php foreach ($subbrand as $subcategories) { ?>
+
+                                                    <option value="<?= $subcategories['id']; ?>" <?= $res[0]['subcategory_id'] == $subcategories['id'] ? 'selected' : '' ?>><?= $subcategories['name']; ?></option>
+                                                <?php }
+                                            } else { ?>
+                                                <option value="">---Select Subbrand---</option>
+                                            <?php } ?>
+                                        </select>
+                                    </div>
+
                                     <div class="form-group">
                                         <label for="">Product Type :</label>
                                         <select name="indicator" id="indicator" class="form-control">
@@ -1090,6 +1130,16 @@ function isJSON($string)
             data: 'category_id=' + $('#category_id').val() + '&find_subcategory=1',
             success: function(data) {
                 $('#subcategory_id').html("<option value=''>---Select Subcategory---</option>" + data);
+            }
+        });
+    });
+    $(document).on('change', '#brand_id', function() {
+        $.ajax({
+            url: "public/brandoprts.php",
+            data: "brand_id=" + $('#brand_id').val() + "&change_category=1",
+            method: "POST",
+            success: function(data) {
+                $('#subbrand_id').html("<option value=''>---Select Subbrand---</option>" + data);
             }
         });
     });
